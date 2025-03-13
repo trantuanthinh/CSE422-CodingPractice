@@ -1,0 +1,156 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\CSE422-CodingPractice\\Lab3-TranTuanThinh-CSE422\\Lab3\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{EF69AE29-4A1A-44F9-A490-CEF871CF7A03}|Lab3.csproj|d:\\cse422-codingpractice\\lab3-trantuanthinh-cse422\\lab3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EF69AE29-4A1A-44F9-A490-CEF871CF7A03}|Lab3.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EF69AE29-4A1A-44F9-A490-CEF871CF7A03}|Lab3.csproj|d:\\cse422-codingpractice\\lab3-trantuanthinh-cse422\\lab3\\lab3.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{EF69AE29-4A1A-44F9-A490-CEF871CF7A03}|Lab3.csproj|solutionrelative:lab3.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EF69AE29-4A1A-44F9-A490-CEF871CF7A03}|Lab3.csproj|d:\\cse422-codingpractice\\lab3-trantuanthinh-cse422\\lab3\\objects\\borrowtransaction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EF69AE29-4A1A-44F9-A490-CEF871CF7A03}|Lab3.csproj|solutionrelative:objects\\borrowtransaction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EF69AE29-4A1A-44F9-A490-CEF871CF7A03}|Lab3.csproj|d:\\cse422-codingpractice\\lab3-trantuanthinh-cse422\\lab3\\objects\\bookclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EF69AE29-4A1A-44F9-A490-CEF871CF7A03}|Lab3.csproj|solutionrelative:objects\\bookclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EF69AE29-4A1A-44F9-A490-CEF871CF7A03}|Lab3.csproj|d:\\cse422-codingpractice\\lab3-trantuanthinh-cse422\\lab3\\abtractions\\transaction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EF69AE29-4A1A-44F9-A490-CEF871CF7A03}|Lab3.csproj|solutionrelative:abtractions\\transaction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EF69AE29-4A1A-44F9-A490-CEF871CF7A03}|Lab3.csproj|d:\\cse422-codingpractice\\lab3-trantuanthinh-cse422\\lab3\\objects\\returntransaction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EF69AE29-4A1A-44F9-A490-CEF871CF7A03}|Lab3.csproj|solutionrelative:objects\\returntransaction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EF69AE29-4A1A-44F9-A490-CEF871CF7A03}|Lab3.csproj|d:\\cse422-codingpractice\\lab3-trantuanthinh-cse422\\lab3\\objects\\library.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EF69AE29-4A1A-44F9-A490-CEF871CF7A03}|Lab3.csproj|solutionrelative:objects\\library.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EF69AE29-4A1A-44F9-A490-CEF871CF7A03}|Lab3.csproj|d:\\cse422-codingpractice\\lab3-trantuanthinh-cse422\\lab3\\services\\notificationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EF69AE29-4A1A-44F9-A490-CEF871CF7A03}|Lab3.csproj|solutionrelative:services\\notificationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Lab3",
+              "DocumentMoniker": "D:\\CSE422-CodingPractice\\Lab3-TranTuanThinh-CSE422\\Lab3\\Lab3.csproj",
+              "RelativeDocumentMoniker": "Lab3.csproj",
+              "ToolTip": "D:\\CSE422-CodingPractice\\Lab3-TranTuanThinh-CSE422\\Lab3\\Lab3.csproj",
+              "RelativeToolTip": "Lab3.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-01-16T11:19:57.639Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "BookClass.cs",
+              "DocumentMoniker": "D:\\CSE422-CodingPractice\\Lab3-TranTuanThinh-CSE422\\Lab3\\Objects\\BookClass.cs",
+              "RelativeDocumentMoniker": "Objects\\BookClass.cs",
+              "ToolTip": "D:\\CSE422-CodingPractice\\Lab3-TranTuanThinh-CSE422\\Lab3\\Objects\\BookClass.cs",
+              "RelativeToolTip": "Objects\\BookClass.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-16T11:14:47.061Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Transaction.cs",
+              "DocumentMoniker": "D:\\CSE422-CodingPractice\\Lab3-TranTuanThinh-CSE422\\Lab3\\Abtractions\\Transaction.cs",
+              "RelativeDocumentMoniker": "Abtractions\\Transaction.cs",
+              "ToolTip": "D:\\CSE422-CodingPractice\\Lab3-TranTuanThinh-CSE422\\Lab3\\Abtractions\\Transaction.cs",
+              "RelativeToolTip": "Abtractions\\Transaction.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-16T11:12:45.936Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ReturnTransaction.cs",
+              "DocumentMoniker": "D:\\CSE422-CodingPractice\\Lab3-TranTuanThinh-CSE422\\Lab3\\Objects\\ReturnTransaction.cs",
+              "RelativeDocumentMoniker": "Objects\\ReturnTransaction.cs",
+              "ToolTip": "D:\\CSE422-CodingPractice\\Lab3-TranTuanThinh-CSE422\\Lab3\\Objects\\ReturnTransaction.cs",
+              "RelativeToolTip": "Objects\\ReturnTransaction.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-16T11:12:32.761Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "BorrowTransaction.cs",
+              "DocumentMoniker": "D:\\CSE422-CodingPractice\\Lab3-TranTuanThinh-CSE422\\Lab3\\Objects\\BorrowTransaction.cs",
+              "RelativeDocumentMoniker": "Objects\\BorrowTransaction.cs",
+              "ToolTip": "D:\\CSE422-CodingPractice\\Lab3-TranTuanThinh-CSE422\\Lab3\\Objects\\BorrowTransaction.cs",
+              "RelativeToolTip": "Objects\\BorrowTransaction.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-16T11:12:20.344Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\CSE422-CodingPractice\\Lab3-TranTuanThinh-CSE422\\Lab3\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "D:\\CSE422-CodingPractice\\Lab3-TranTuanThinh-CSE422\\Lab3\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAAAAkAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-16T10:05:38.019Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "NotificationService.cs",
+              "DocumentMoniker": "D:\\CSE422-CodingPractice\\Lab3-TranTuanThinh-CSE422\\Lab3\\Services\\NotificationService.cs",
+              "RelativeDocumentMoniker": "Services\\NotificationService.cs",
+              "ToolTip": "D:\\CSE422-CodingPractice\\Lab3-TranTuanThinh-CSE422\\Lab3\\Services\\NotificationService.cs",
+              "RelativeToolTip": "Services\\NotificationService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAABdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-16T11:02:41.311Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Library.cs",
+              "DocumentMoniker": "D:\\CSE422-CodingPractice\\Lab3-TranTuanThinh-CSE422\\Lab3\\Objects\\Library.cs",
+              "RelativeDocumentMoniker": "Objects\\Library.cs",
+              "ToolTip": "D:\\CSE422-CodingPractice\\Lab3-TranTuanThinh-CSE422\\Lab3\\Objects\\Library.cs",
+              "RelativeToolTip": "Objects\\Library.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAwwCIAAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-16T11:00:13.391Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

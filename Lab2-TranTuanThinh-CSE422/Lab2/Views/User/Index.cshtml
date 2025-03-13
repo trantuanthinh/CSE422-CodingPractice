@@ -1,0 +1,38 @@
+﻿@model IEnumerable<Lab2.Models.User>
+
+@{
+    ViewData["Title"] = "Users";
+}
+
+<h2 style="font-family: Arial, sans-serif; color: #333;">Users</h2>
+
+<div style="margin-bottom: 20px;">
+    <a href="/User/Create" style="display: inline-block; padding: 10px 15px; background-color: #007bff; color: #fff; text-decoration: none; border-radius: 5px; font-size: 14px;">
+        Create New User
+    </a>
+</div>
+
+<table style="width: 100%; border-collapse: collapse; font-family: Arial, sans-serif; margin-top: 10px; box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);">
+    <thead>
+        <tr style="background-color: #007bff; color: #fff; text-align: left;">
+            <th style="padding: 10px; border: 1px solid #ddd;">Full Name</th>
+            <th style="padding: 10px; border: 1px solid #ddd;">Email</th>
+            <th style="padding: 10px; border: 1px solid #ddd;">Phone Number</th>
+            <th style="padding: 10px; border: 1px solid #ddd; width: 150px;">Actions</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var user in Model)
+        {
+            <tr style="background-color: #f9f9f9; border-bottom: 1px solid #ddd;">
+                <td style="padding: 10px; border: 1px solid #ddd;">@user.FullName</td>
+                <td style="padding: 10px; border: 1px solid #ddd;">@user.Email</td>
+                <td style="padding: 10px; border: 1px solid #ddd;">@user.PhoneNumber</td>
+                <td style="padding: 10px; border: 1px solid #ddd; text-align: center;">
+                    <a href="/User/Edit/@user.Id" style="color: #007bff; text-decoration: none; margin-right: 10px;">Edit</a>
+                    <a href="/User/Delete/@user.Id" style="color: #dc3545; text-decoration: none;">Delete</a>
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>

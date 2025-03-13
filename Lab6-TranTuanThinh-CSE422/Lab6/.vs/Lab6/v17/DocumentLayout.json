@@ -1,0 +1,207 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\CSE422-CodingPractice\\Lab6-TranTuanThinh-CSE422\\Lab6\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{36E7BD38-7988-4FB6-80F9-AE61B54424E2}|Lab6.csproj|d:\\cse422-codingpractice\\lab6-trantuanthinh-cse422\\lab6\\service\\baseservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{36E7BD38-7988-4FB6-80F9-AE61B54424E2}|Lab6.csproj|solutionrelative:service\\baseservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{36E7BD38-7988-4FB6-80F9-AE61B54424E2}|Lab6.csproj|d:\\cse422-codingpractice\\lab6-trantuanthinh-cse422\\lab6\\model\\payment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{36E7BD38-7988-4FB6-80F9-AE61B54424E2}|Lab6.csproj|solutionrelative:model\\payment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{36E7BD38-7988-4FB6-80F9-AE61B54424E2}|Lab6.csproj|d:\\cse422-codingpractice\\lab6-trantuanthinh-cse422\\lab6\\model\\factorypayment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{36E7BD38-7988-4FB6-80F9-AE61B54424E2}|Lab6.csproj|solutionrelative:model\\factorypayment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{36E7BD38-7988-4FB6-80F9-AE61B54424E2}|Lab6.csproj|d:\\cse422-codingpractice\\lab6-trantuanthinh-cse422\\lab6\\service\\processpayment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{36E7BD38-7988-4FB6-80F9-AE61B54424E2}|Lab6.csproj|solutionrelative:service\\processpayment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{36E7BD38-7988-4FB6-80F9-AE61B54424E2}|Lab6.csproj|d:\\cse422-codingpractice\\lab6-trantuanthinh-cse422\\lab6\\interface\\ipayment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{36E7BD38-7988-4FB6-80F9-AE61B54424E2}|Lab6.csproj|solutionrelative:interface\\ipayment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{36E7BD38-7988-4FB6-80F9-AE61B54424E2}|Lab6.csproj|d:\\cse422-codingpractice\\lab6-trantuanthinh-cse422\\lab6\\controller\\genericbasecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{36E7BD38-7988-4FB6-80F9-AE61B54424E2}|Lab6.csproj|solutionrelative:controller\\genericbasecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{36E7BD38-7988-4FB6-80F9-AE61B54424E2}|Lab6.csproj|d:\\cse422-codingpractice\\lab6-trantuanthinh-cse422\\lab6\\repository\\genericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{36E7BD38-7988-4FB6-80F9-AE61B54424E2}|Lab6.csproj|solutionrelative:repository\\genericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{36E7BD38-7988-4FB6-80F9-AE61B54424E2}|Lab6.csproj|d:\\cse422-codingpractice\\lab6-trantuanthinh-cse422\\lab6\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{36E7BD38-7988-4FB6-80F9-AE61B54424E2}|Lab6.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{36E7BD38-7988-4FB6-80F9-AE61B54424E2}|Lab6.csproj|d:\\cse422-codingpractice\\lab6-trantuanthinh-cse422\\lab6\\model\\teacher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{36E7BD38-7988-4FB6-80F9-AE61B54424E2}|Lab6.csproj|solutionrelative:model\\teacher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{36E7BD38-7988-4FB6-80F9-AE61B54424E2}|Lab6.csproj|d:\\cse422-codingpractice\\lab6-trantuanthinh-cse422\\lab6\\model\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{36E7BD38-7988-4FB6-80F9-AE61B54424E2}|Lab6.csproj|solutionrelative:model\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{36E7BD38-7988-4FB6-80F9-AE61B54424E2}|Lab6.csproj|d:\\cse422-codingpractice\\lab6-trantuanthinh-cse422\\lab6\\logger\\logger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{36E7BD38-7988-4FB6-80F9-AE61B54424E2}|Lab6.csproj|solutionrelative:logger\\logger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "BaseService.cs",
+              "DocumentMoniker": "D:\\CSE422-CodingPractice\\Lab6-TranTuanThinh-CSE422\\Lab6\\Service\\BaseService.cs",
+              "RelativeDocumentMoniker": "Service\\BaseService.cs",
+              "ToolTip": "D:\\CSE422-CodingPractice\\Lab6-TranTuanThinh-CSE422\\Lab6\\Service\\BaseService.cs",
+              "RelativeToolTip": "Service\\BaseService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-27T10:58:14.607Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ProcessPayment.cs",
+              "DocumentMoniker": "D:\\CSE422-CodingPractice\\Lab6-TranTuanThinh-CSE422\\Lab6\\Service\\ProcessPayment.cs",
+              "RelativeDocumentMoniker": "Service\\ProcessPayment.cs",
+              "ToolTip": "D:\\CSE422-CodingPractice\\Lab6-TranTuanThinh-CSE422\\Lab6\\Service\\ProcessPayment.cs",
+              "RelativeToolTip": "Service\\ProcessPayment.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-27T10:51:55.121Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "FactoryPayment.cs",
+              "DocumentMoniker": "D:\\CSE422-CodingPractice\\Lab6-TranTuanThinh-CSE422\\Lab6\\Model\\FactoryPayment.cs",
+              "RelativeDocumentMoniker": "Model\\FactoryPayment.cs",
+              "ToolTip": "D:\\CSE422-CodingPractice\\Lab6-TranTuanThinh-CSE422\\Lab6\\Model\\FactoryPayment.cs",
+              "RelativeToolTip": "Model\\FactoryPayment.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-27T10:51:11.961Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Payment.cs",
+              "DocumentMoniker": "D:\\CSE422-CodingPractice\\Lab6-TranTuanThinh-CSE422\\Lab6\\Model\\Payment.cs",
+              "RelativeDocumentMoniker": "Model\\Payment.cs",
+              "ToolTip": "D:\\CSE422-CodingPractice\\Lab6-TranTuanThinh-CSE422\\Lab6\\Model\\Payment.cs",
+              "RelativeToolTip": "Model\\Payment.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABYAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-27T10:50:04.137Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "IPayment.cs",
+              "DocumentMoniker": "D:\\CSE422-CodingPractice\\Lab6-TranTuanThinh-CSE422\\Lab6\\Interface\\IPayment.cs",
+              "RelativeDocumentMoniker": "Interface\\IPayment.cs",
+              "ToolTip": "D:\\CSE422-CodingPractice\\Lab6-TranTuanThinh-CSE422\\Lab6\\Interface\\IPayment.cs",
+              "RelativeToolTip": "Interface\\IPayment.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-27T10:49:31.689Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "GenericBaseController.cs",
+              "DocumentMoniker": "D:\\CSE422-CodingPractice\\Lab6-TranTuanThinh-CSE422\\Lab6\\Controller\\GenericBaseController.cs",
+              "RelativeDocumentMoniker": "Controller\\GenericBaseController.cs",
+              "ToolTip": "D:\\CSE422-CodingPractice\\Lab6-TranTuanThinh-CSE422\\Lab6\\Controller\\GenericBaseController.cs",
+              "RelativeToolTip": "Controller\\GenericBaseController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-27T10:35:51.085Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Teacher.cs",
+              "DocumentMoniker": "D:\\CSE422-CodingPractice\\Lab6-TranTuanThinh-CSE422\\Lab6\\Model\\Teacher.cs",
+              "RelativeDocumentMoniker": "Model\\Teacher.cs",
+              "ToolTip": "D:\\CSE422-CodingPractice\\Lab6-TranTuanThinh-CSE422\\Lab6\\Model\\Teacher.cs",
+              "RelativeToolTip": "Model\\Teacher.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-27T10:32:03.807Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Student.cs",
+              "DocumentMoniker": "D:\\CSE422-CodingPractice\\Lab6-TranTuanThinh-CSE422\\Lab6\\Model\\Student.cs",
+              "RelativeDocumentMoniker": "Model\\Student.cs",
+              "ToolTip": "D:\\CSE422-CodingPractice\\Lab6-TranTuanThinh-CSE422\\Lab6\\Model\\Student.cs",
+              "RelativeToolTip": "Model\\Student.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-27T10:31:28.173Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "GenericRepository.cs",
+              "DocumentMoniker": "D:\\CSE422-CodingPractice\\Lab6-TranTuanThinh-CSE422\\Lab6\\Repository\\GenericRepository.cs",
+              "RelativeDocumentMoniker": "Repository\\GenericRepository.cs",
+              "ToolTip": "D:\\CSE422-CodingPractice\\Lab6-TranTuanThinh-CSE422\\Lab6\\Repository\\GenericRepository.cs",
+              "RelativeToolTip": "Repository\\GenericRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-27T10:30:29.381Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Logger.cs",
+              "DocumentMoniker": "D:\\CSE422-CodingPractice\\Lab6-TranTuanThinh-CSE422\\Lab6\\Logger\\Logger.cs",
+              "RelativeDocumentMoniker": "Logger\\Logger.cs",
+              "ToolTip": "D:\\CSE422-CodingPractice\\Lab6-TranTuanThinh-CSE422\\Lab6\\Logger\\Logger.cs",
+              "RelativeToolTip": "Logger\\Logger.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-27T10:13:33.853Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\CSE422-CodingPractice\\Lab6-TranTuanThinh-CSE422\\Lab6\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "D:\\CSE422-CodingPractice\\Lab6-TranTuanThinh-CSE422\\Lab6\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-27T10:13:12.819Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

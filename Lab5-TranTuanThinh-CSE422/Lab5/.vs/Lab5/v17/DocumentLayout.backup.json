@@ -1,0 +1,258 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\CSE422-CodingPractice\\Lab5-TranTuanThinh-CSE422\\Lab5\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{456EEEBC-7DFB-4F11-A1A1-597E8C4C4532}|Lab5.csproj|d:\\cse422-codingpractice\\lab5-trantuanthinh-cse422\\lab5\\service\\loan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{456EEEBC-7DFB-4F11-A1A1-597E8C4C4532}|Lab5.csproj|solutionrelative:service\\loan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{456EEEBC-7DFB-4F11-A1A1-597E8C4C4532}|Lab5.csproj|d:\\cse422-codingpractice\\lab5-trantuanthinh-cse422\\lab5\\service\\bookloanfeecalculation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{456EEEBC-7DFB-4F11-A1A1-597E8C4C4532}|Lab5.csproj|solutionrelative:service\\bookloanfeecalculation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{456EEEBC-7DFB-4F11-A1A1-597E8C4C4532}|Lab5.csproj|d:\\cse422-codingpractice\\lab5-trantuanthinh-cse422\\lab5\\service\\magazineloanfeecalculation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{456EEEBC-7DFB-4F11-A1A1-597E8C4C4532}|Lab5.csproj|solutionrelative:service\\magazineloanfeecalculation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{456EEEBC-7DFB-4F11-A1A1-597E8C4C4532}|Lab5.csproj|d:\\cse422-codingpractice\\lab5-trantuanthinh-cse422\\lab5\\service\\newspaperloanfeecalculation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{456EEEBC-7DFB-4F11-A1A1-597E8C4C4532}|Lab5.csproj|solutionrelative:service\\newspaperloanfeecalculation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{456EEEBC-7DFB-4F11-A1A1-597E8C4C4532}|Lab5.csproj|d:\\cse422-codingpractice\\lab5-trantuanthinh-cse422\\lab5\\interfaces\\iloanfeecalculation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{456EEEBC-7DFB-4F11-A1A1-597E8C4C4532}|Lab5.csproj|solutionrelative:interfaces\\iloanfeecalculation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{456EEEBC-7DFB-4F11-A1A1-597E8C4C4532}|Lab5.csproj|d:\\cse422-codingpractice\\lab5-trantuanthinh-cse422\\lab5\\interfaces\\inotification.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{456EEEBC-7DFB-4F11-A1A1-597E8C4C4532}|Lab5.csproj|solutionrelative:interfaces\\inotification.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{456EEEBC-7DFB-4F11-A1A1-597E8C4C4532}|Lab5.csproj|d:\\cse422-codingpractice\\lab5-trantuanthinh-cse422\\lab5\\model\\library.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{456EEEBC-7DFB-4F11-A1A1-597E8C4C4532}|Lab5.csproj|solutionrelative:model\\library.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{456EEEBC-7DFB-4F11-A1A1-597E8C4C4532}|Lab5.csproj|d:\\cse422-codingpractice\\lab5-trantuanthinh-cse422\\lab5\\model\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{456EEEBC-7DFB-4F11-A1A1-597E8C4C4532}|Lab5.csproj|solutionrelative:model\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{456EEEBC-7DFB-4F11-A1A1-597E8C4C4532}|Lab5.csproj|d:\\cse422-codingpractice\\lab5-trantuanthinh-cse422\\lab5\\model\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{456EEEBC-7DFB-4F11-A1A1-597E8C4C4532}|Lab5.csproj|solutionrelative:model\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{456EEEBC-7DFB-4F11-A1A1-597E8C4C4532}|Lab5.csproj|d:\\cse422-codingpractice\\lab5-trantuanthinh-cse422\\lab5\\model\\newspaper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{456EEEBC-7DFB-4F11-A1A1-597E8C4C4532}|Lab5.csproj|solutionrelative:model\\newspaper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{456EEEBC-7DFB-4F11-A1A1-597E8C4C4532}|Lab5.csproj|d:\\cse422-codingpractice\\lab5-trantuanthinh-cse422\\lab5\\model\\magazine.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{456EEEBC-7DFB-4F11-A1A1-597E8C4C4532}|Lab5.csproj|solutionrelative:model\\magazine.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{456EEEBC-7DFB-4F11-A1A1-597E8C4C4532}|Lab5.csproj|d:\\cse422-codingpractice\\lab5-trantuanthinh-cse422\\lab5\\abstractions\\document.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{456EEEBC-7DFB-4F11-A1A1-597E8C4C4532}|Lab5.csproj|solutionrelative:abstractions\\document.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{456EEEBC-7DFB-4F11-A1A1-597E8C4C4532}|Lab5.csproj|d:\\cse422-codingpractice\\lab5-trantuanthinh-cse422\\lab5\\database\\database.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{456EEEBC-7DFB-4F11-A1A1-597E8C4C4532}|Lab5.csproj|solutionrelative:database\\database.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{456EEEBC-7DFB-4F11-A1A1-597E8C4C4532}|Lab5.csproj|d:\\cse422-codingpractice\\lab5-trantuanthinh-cse422\\lab5\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{456EEEBC-7DFB-4F11-A1A1-597E8C4C4532}|Lab5.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Loan.cs",
+              "DocumentMoniker": "D:\\CSE422-CodingPractice\\Lab5-TranTuanThinh-CSE422\\Lab5\\Service\\Loan.cs",
+              "RelativeDocumentMoniker": "Service\\Loan.cs",
+              "ToolTip": "D:\\CSE422-CodingPractice\\Lab5-TranTuanThinh-CSE422\\Lab5\\Service\\Loan.cs",
+              "RelativeToolTip": "Service\\Loan.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-20T11:16:22.701Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MagazineLoanFeeCalculation.cs",
+              "DocumentMoniker": "D:\\CSE422-CodingPractice\\Lab5-TranTuanThinh-CSE422\\Lab5\\Service\\MagazineLoanFeeCalculation.cs",
+              "RelativeDocumentMoniker": "Service\\MagazineLoanFeeCalculation.cs",
+              "ToolTip": "D:\\CSE422-CodingPractice\\Lab5-TranTuanThinh-CSE422\\Lab5\\Service\\MagazineLoanFeeCalculation.cs",
+              "RelativeToolTip": "Service\\MagazineLoanFeeCalculation.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-20T10:51:35.786Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "NewspaperLoanFeeCalculation.cs",
+              "DocumentMoniker": "D:\\CSE422-CodingPractice\\Lab5-TranTuanThinh-CSE422\\Lab5\\Service\\NewspaperLoanFeeCalculation.cs",
+              "RelativeDocumentMoniker": "Service\\NewspaperLoanFeeCalculation.cs",
+              "ToolTip": "D:\\CSE422-CodingPractice\\Lab5-TranTuanThinh-CSE422\\Lab5\\Service\\NewspaperLoanFeeCalculation.cs",
+              "RelativeToolTip": "Service\\NewspaperLoanFeeCalculation.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-20T10:51:01.14Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ILoanFeeCalculation.cs",
+              "DocumentMoniker": "D:\\CSE422-CodingPractice\\Lab5-TranTuanThinh-CSE422\\Lab5\\Interfaces\\ILoanFeeCalculation.cs",
+              "RelativeDocumentMoniker": "Interfaces\\ILoanFeeCalculation.cs",
+              "ToolTip": "D:\\CSE422-CodingPractice\\Lab5-TranTuanThinh-CSE422\\Lab5\\Interfaces\\ILoanFeeCalculation.cs",
+              "RelativeToolTip": "Interfaces\\ILoanFeeCalculation.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-20T10:49:58.004Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "INotification.cs",
+              "DocumentMoniker": "D:\\CSE422-CodingPractice\\Lab5-TranTuanThinh-CSE422\\Lab5\\Interfaces\\INotification.cs",
+              "RelativeDocumentMoniker": "Interfaces\\INotification.cs",
+              "ToolTip": "D:\\CSE422-CodingPractice\\Lab5-TranTuanThinh-CSE422\\Lab5\\Interfaces\\INotification.cs",
+              "RelativeToolTip": "Interfaces\\INotification.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-20T10:42:53.168Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "BookLoanFeeCalculation.cs",
+              "DocumentMoniker": "D:\\CSE422-CodingPractice\\Lab5-TranTuanThinh-CSE422\\Lab5\\Service\\BookLoanFeeCalculation.cs",
+              "RelativeDocumentMoniker": "Service\\BookLoanFeeCalculation.cs",
+              "ToolTip": "D:\\CSE422-CodingPractice\\Lab5-TranTuanThinh-CSE422\\Lab5\\Service\\BookLoanFeeCalculation.cs",
+              "RelativeToolTip": "Service\\BookLoanFeeCalculation.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAA/AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-20T10:41:40.954Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Library.cs",
+              "DocumentMoniker": "D:\\CSE422-CodingPractice\\Lab5-TranTuanThinh-CSE422\\Lab5\\Model\\Library.cs",
+              "RelativeDocumentMoniker": "Model\\Library.cs",
+              "ToolTip": "D:\\CSE422-CodingPractice\\Lab5-TranTuanThinh-CSE422\\Lab5\\Model\\Library.cs",
+              "RelativeToolTip": "Model\\Library.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAAwBQAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-20T10:46:20.884Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "User.cs",
+              "DocumentMoniker": "D:\\CSE422-CodingPractice\\Lab5-TranTuanThinh-CSE422\\Lab5\\Model\\User.cs",
+              "RelativeDocumentMoniker": "Model\\User.cs",
+              "ToolTip": "D:\\CSE422-CodingPractice\\Lab5-TranTuanThinh-CSE422\\Lab5\\Model\\User.cs",
+              "RelativeToolTip": "Model\\User.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-20T10:43:43.559Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Newspaper.cs",
+              "DocumentMoniker": "D:\\CSE422-CodingPractice\\Lab5-TranTuanThinh-CSE422\\Lab5\\Model\\Newspaper.cs",
+              "RelativeDocumentMoniker": "Model\\Newspaper.cs",
+              "ToolTip": "D:\\CSE422-CodingPractice\\Lab5-TranTuanThinh-CSE422\\Lab5\\Model\\Newspaper.cs",
+              "RelativeToolTip": "Model\\Newspaper.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-20T10:40:39.163Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Book.cs",
+              "DocumentMoniker": "D:\\CSE422-CodingPractice\\Lab5-TranTuanThinh-CSE422\\Lab5\\Model\\Book.cs",
+              "RelativeDocumentMoniker": "Model\\Book.cs",
+              "ToolTip": "D:\\CSE422-CodingPractice\\Lab5-TranTuanThinh-CSE422\\Lab5\\Model\\Book.cs",
+              "RelativeToolTip": "Model\\Book.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-20T10:40:21.367Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Magazine.cs",
+              "DocumentMoniker": "D:\\CSE422-CodingPractice\\Lab5-TranTuanThinh-CSE422\\Lab5\\Model\\Magazine.cs",
+              "RelativeDocumentMoniker": "Model\\Magazine.cs",
+              "ToolTip": "D:\\CSE422-CodingPractice\\Lab5-TranTuanThinh-CSE422\\Lab5\\Model\\Magazine.cs",
+              "RelativeToolTip": "Model\\Magazine.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-20T10:38:41.551Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Document.cs",
+              "DocumentMoniker": "D:\\CSE422-CodingPractice\\Lab5-TranTuanThinh-CSE422\\Lab5\\Abstractions\\Document.cs",
+              "RelativeDocumentMoniker": "Abstractions\\Document.cs",
+              "ToolTip": "D:\\CSE422-CodingPractice\\Lab5-TranTuanThinh-CSE422\\Lab5\\Abstractions\\Document.cs",
+              "RelativeToolTip": "Abstractions\\Document.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-20T10:37:39.65Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Database.cs",
+              "DocumentMoniker": "D:\\CSE422-CodingPractice\\Lab5-TranTuanThinh-CSE422\\Lab5\\Database\\Database.cs",
+              "RelativeDocumentMoniker": "Database\\Database.cs",
+              "ToolTip": "D:\\CSE422-CodingPractice\\Lab5-TranTuanThinh-CSE422\\Lab5\\Database\\Database.cs",
+              "RelativeToolTip": "Database\\Database.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvwoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-20T10:36:15.089Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\CSE422-CodingPractice\\Lab5-TranTuanThinh-CSE422\\Lab5\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "D:\\CSE422-CodingPractice\\Lab5-TranTuanThinh-CSE422\\Lab5\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-20T10:34:44.108Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
