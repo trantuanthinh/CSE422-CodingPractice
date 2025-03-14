@@ -1,4 +1,4 @@
-﻿namespace TestExamCode
+﻿namespace TestExamCode.Q1
 {
     internal class Employee
     {

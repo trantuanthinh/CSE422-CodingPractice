@@ -1,0 +1,15 @@
+D:\CSE422-CodingPractice\TestExam\TestExamCode\bin\Debug\net8.0\TestExamCode.exe
+D:\CSE422-CodingPractice\TestExam\TestExamCode\bin\Debug\net8.0\TestExamCode.deps.json
+D:\CSE422-CodingPractice\TestExam\TestExamCode\bin\Debug\net8.0\TestExamCode.runtimeconfig.json
+D:\CSE422-CodingPractice\TestExam\TestExamCode\bin\Debug\net8.0\TestExamCode.dll
+D:\CSE422-CodingPractice\TestExam\TestExamCode\bin\Debug\net8.0\TestExamCode.pdb
+D:\CSE422-CodingPractice\TestExam\TestExamCode\obj\Debug\net8.0\TestExamCode.GeneratedMSBuildEditorConfig.editorconfig
+D:\CSE422-CodingPractice\TestExam\TestExamCode\obj\Debug\net8.0\TestExamCode.AssemblyInfoInputs.cache
+D:\CSE422-CodingPractice\TestExam\TestExamCode\obj\Debug\net8.0\TestExamCode.AssemblyInfo.cs
+D:\CSE422-CodingPractice\TestExam\TestExamCode\obj\Debug\net8.0\TestExamCode.csproj.CoreCompileInputs.cache
+D:\CSE422-CodingPractice\TestExam\TestExamCode\obj\Debug\net8.0\TestExamCode.sourcelink.json
+D:\CSE422-CodingPractice\TestExam\TestExamCode\obj\Debug\net8.0\TestExamCode.dll
+D:\CSE422-CodingPractice\TestExam\TestExamCode\obj\Debug\net8.0\refint\TestExamCode.dll
+D:\CSE422-CodingPractice\TestExam\TestExamCode\obj\Debug\net8.0\TestExamCode.pdb
+D:\CSE422-CodingPractice\TestExam\TestExamCode\obj\Debug\net8.0\TestExamCode.genruntimeconfig.cache
+D:\CSE422-CodingPractice\TestExam\TestExamCode\obj\Debug\net8.0\ref\TestExamCode.dll
